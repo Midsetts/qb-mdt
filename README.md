@@ -15,8 +15,8 @@ It includes:
 #### Staff Logs
 
 ## Preview
-![image](https://user-images.githubusercontent.com/100185331/157336132-ae96b863-c2e9-4075-af39-a3a2a4f13e7e.png)
-![image](https://user-images.githubusercontent.com/100185331/157336230-b54bbcf1-9045-4836-b620-4ccc8d3a23e2.png)
+![image](https://user-images.githubusercontent.com/100185331/157343845-979f693b-1f7d-42ba-8402-9914617f9fef.png)
+![image](https://user-images.githubusercontent.com/100185331/157343886-fd18072e-eaa4-477a-a3a9-626b80238e06.png)
 
 
 ## Changes
